@@ -1,0 +1,135 @@
+C:\Users\sdsan\Documents\PIM\Sistema Enfermagem\Sistema PIM\bin\Debug\Sistema_PIM.exe.config
+C:\Users\sdsan\Documents\PIM\Sistema Enfermagem\Sistema PIM\bin\Debug\Sistema_PIM.exe
+C:\Users\sdsan\Documents\PIM\Sistema Enfermagem\Sistema PIM\bin\Debug\Sistema_PIM.pdb
+C:\Users\sdsan\Documents\PIM\Sistema Enfermagem\Sistema PIM\obj\Debug\Sistema PIM.csprojAssemblyReference.cache
+C:\Users\sdsan\Documents\PIM\Sistema Enfermagem\Sistema PIM\obj\Debug\Interface_PIM.Apresentacao.agenda.resources
+C:\Users\sdsan\Documents\PIM\Sistema Enfermagem\Sistema PIM\obj\Debug\Interface_PIM.Apresentacao.frmLogin.resources
+C:\Users\sdsan\Documents\PIM\Sistema Enfermagem\Sistema PIM\obj\Debug\Interface_PIM.frmPrincipal.resources
+C:\Users\sdsan\Documents\PIM\Sistema Enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.Properties.Resources.resources
+C:\Users\sdsan\Documents\PIM\Sistema Enfermagem\Sistema PIM\obj\Debug\Sistema PIM.csproj.GenerateResource.cache
+C:\Users\sdsan\Documents\PIM\Sistema Enfermagem\Sistema PIM\obj\Debug\Sistema PIM.csproj.CoreCompileInputs.cache
+C:\Users\sdsan\Documents\PIM\Sistema Enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.exe
+C:\Users\sdsan\Documents\PIM\Sistema Enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.pdb
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema Enfermagem\Sistema PIM\bin\Debug\Sistema_PIM.exe.config
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema Enfermagem\Sistema PIM\bin\Debug\Sistema_PIM.exe
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema Enfermagem\Sistema PIM\bin\Debug\Sistema_PIM.pdb
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema Enfermagem\Sistema PIM\obj\Debug\Sistema PIM.csprojAssemblyReference.cache
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema Enfermagem\Sistema PIM\obj\Debug\Interface_PIM.Apresentacao.frmLogin.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema Enfermagem\Sistema PIM\obj\Debug\Interface_PIM.frmPrincipal.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema Enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.Properties.Resources.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema Enfermagem\Sistema PIM\obj\Debug\Sistema PIM.csproj.GenerateResource.cache
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema Enfermagem\Sistema PIM\obj\Debug\Sistema PIM.csproj.CoreCompileInputs.cache
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema Enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.exe
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema Enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.pdb
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema Enfermagem\Sistema PIM\obj\Debug\Interface_PIM.Apresentacao.frmAgenda.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema Enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.frmCadastro.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema Enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Prontuario.frmAdulto.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema Enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.frmProntuario.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\bin\Debug\Sistema_PIM.exe.config
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\bin\Debug\Sistema_PIM.exe
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\bin\Debug\Sistema_PIM.pdb
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Sistema PIM.csprojAssemblyReference.cache
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Interface_PIM.Apresentacao.frmLogin.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Interface_PIM.frmPrincipal.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Prontuario.frmAdulto.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Sistema_PIM.Properties.Resources.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Sistema PIM.csproj.GenerateResource.cache
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Sistema PIM.csproj.CoreCompileInputs.cache
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Sistema_PIM.exe
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Sistema_PIM.pdb
+C:\Users\wilso\Desktop\Sistema PIM\bin\Debug\Sistema_PIM.exe.config
+C:\Users\wilso\Desktop\Sistema PIM\bin\Debug\Sistema_PIM.exe
+C:\Users\wilso\Desktop\Sistema PIM\bin\Debug\Sistema_PIM.pdb
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Sistema PIM.csprojAssemblyReference.cache
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Cadastro.frmPessoais.resources
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Interface_PIM.Apresentacao.frmLogin.resources
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Interface_PIM.frmPrincipal.resources
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Prontuario.frmAdulto.resources
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Prontuario.frmAnamnese.resources
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Prontuario.frmCrianca.resources
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Prontuario.frmGestante.resources
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.frmProntuario.resources
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Sistema_PIM.Properties.Resources.resources
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Sistema PIM.csproj.GenerateResource.cache
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Sistema PIM.csproj.CoreCompileInputs.cache
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Sistema_PIM.exe
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Sistema_PIM.pdb
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Encaminhamento.frmEncaminhamento.resources
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Encaminhamento.frmPedidoExame.resources
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Profissionais.frmProfissionais.resources
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.frmInicial.resources
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Agenda.frmConsulta.resources
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.frmHistorico.resources
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.frmConsultaDia.resources
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Consulta.frmTeladoDia.resources
+C:\Users\wilso\Desktop\Sistema PIM\obj\Debug\Interface_PIM.Apresentacao.frmTeladoDia.resources
+C:\Users\sdsan\Documents\Sistema PIM\bin\Debug\Sistema_PIM.exe.config
+C:\Users\sdsan\Documents\Sistema PIM\bin\Debug\Sistema_PIM.exe
+C:\Users\sdsan\Documents\Sistema PIM\bin\Debug\Sistema_PIM.pdb
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Sistema PIM.csprojAssemblyReference.cache
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Agenda.frmConsulta.resources
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Cadastro.frmPessoais.resources
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Consulta.frmTeladoDia.resources
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Encaminhamento.frmEncaminhamento.resources
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Encaminhamento.frmPedidoExame.resources
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.frmInicial.resources
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Interface_PIM.Apresentacao.frmTeladoDia.resources
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.frmConsultaDia.resources
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.frmHistorico.resources
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Interface_PIM.Apresentacao.frmLogin.resources
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Interface_PIM.FrmPrincipal.resources
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Profissionais.frmProfissionais.resources
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Prontuario.frmAdulto.resources
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Prontuario.frmAnamnese.resources
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Prontuario.frmCrianca.resources
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Prontuario.frmGestante.resources
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.frmProntuario.resources
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Sistema_PIM.Properties.Resources.resources
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Sistema PIM.csproj.GenerateResource.cache
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Sistema PIM.csproj.CoreCompileInputs.cache
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Sistema_PIM.exe
+C:\Users\sdsan\Documents\Sistema PIM\obj\Debug\Sistema_PIM.pdb
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Agenda.frmConsulta.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Cadastro.frmPessoais.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Encaminhamento.frmEncaminhamento.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Encaminhamento.frmPedidoExame.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.frmConsultaDia.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.frmHistorico.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Profissionais.frmProfissionais.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Prontuario.frmAnamnese.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Prontuario.frmCrianca.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Prontuario.frmGestante.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Interface_PIM.Apresentacao.frmAgenda.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.frmInicialProntuario.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.frmInicialEncaminhamento.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Profissionais.frmCadastroFuncionario.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Paciente.frmEditarPacientes.resources
+C:\Users\sdsan\Documents\PIM\Sistema ENFERMAGEM 3º Semestre\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Profissionais.frmEditarFuncionario.resources
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\bin\Debug\Sistema_PIM.exe.config
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\bin\Debug\Sistema_PIM.exe
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\bin\Debug\Sistema_PIM.pdb
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Sistema PIM.csprojAssemblyReference.cache
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Paciente.frmEditarPacientes.resources
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Agenda.frmConsulta.resources
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Cadastro.frmPessoais.resources
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Encaminhamento.frmEncaminhamento.resources
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Encaminhamento.frmPedidoExame.resources
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.frmInicialEncaminhamento.resources
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Interface_PIM.Apresentacao.frmAgenda.resources
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.frmConsultaDia.resources
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Profissionais.frmCadastroFuncionario.resources
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Profissionais.frmEditarFuncionario.resources
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.frmHistorico.resources
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Interface_PIM.Apresentacao.frmLogin.resources
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Interface_PIM.FrmPrincipal.resources
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Profissionais.frmProfissionais.resources
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Prontuario.frmAdulto.resources
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Prontuario.frmAnamnese.resources
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Prontuario.frmCrianca.resources
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.Prontuario.frmGestante.resources
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.Apresentacao.frmInicialProntuario.resources
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.Properties.Resources.resources
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Sistema PIM.csproj.GenerateResource.cache
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Sistema PIM.csproj.CoreCompileInputs.cache
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.exe
+C:\Users\adils\Documents\pim_unip_enfermagem\Sistema PIM\obj\Debug\Sistema_PIM.pdb

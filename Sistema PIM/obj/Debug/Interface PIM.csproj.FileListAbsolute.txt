@@ -1,0 +1,12 @@
+C:\Users\sdsan\Documents\PIM\Interface PIM\Interface PIM\bin\Debug\Interface PIM.exe.config
+C:\Users\sdsan\Documents\PIM\Interface PIM\Interface PIM\bin\Debug\Interface PIM.exe
+C:\Users\sdsan\Documents\PIM\Interface PIM\Interface PIM\bin\Debug\Interface PIM.pdb
+C:\Users\sdsan\Documents\PIM\Interface PIM\Interface PIM\obj\Debug\Interface PIM.csprojAssemblyReference.cache
+C:\Users\sdsan\Documents\PIM\Interface PIM\Interface PIM\obj\Debug\Interface_PIM.frmPrincipal.resources
+C:\Users\sdsan\Documents\PIM\Interface PIM\Interface PIM\obj\Debug\Interface_PIM.Properties.Resources.resources
+C:\Users\sdsan\Documents\PIM\Interface PIM\Interface PIM\obj\Debug\Interface PIM.csproj.GenerateResource.cache
+C:\Users\sdsan\Documents\PIM\Interface PIM\Interface PIM\obj\Debug\Interface PIM.csproj.CoreCompileInputs.cache
+C:\Users\sdsan\Documents\PIM\Interface PIM\Interface PIM\obj\Debug\Interface PIM.exe
+C:\Users\sdsan\Documents\PIM\Interface PIM\Interface PIM\obj\Debug\Interface PIM.pdb
+C:\Users\sdsan\Documents\PIM\Interface PIM\Interface PIM\obj\Debug\Interface_PIM.Apresentacao.frmLogin.resources
+C:\Users\sdsan\Documents\PIM\Interface PIM\Interface PIM\obj\Debug\Interface_PIM.Apresentacao.agenda.resources
