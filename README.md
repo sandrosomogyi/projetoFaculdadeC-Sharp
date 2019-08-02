@@ -1,28 +1,28 @@
 # Projeto da Faculdade em C#
 
-Sistema desenvolvido para o laboratÛrio de Enfermagem da Faculdade.
+Sistema desenvolvido para o laborat√≥rio de Enfermagem da Faculdade.
 
-Feito em C# com integraÁ„o ao banco de dados SQL Server, com uma contruÁ„o de uma dashboard com alternaÁ„o dinamica de formularios e tratamento de erros, modelos de banco de dados desde o conceitual atÈ o fisico, entre outras coisas.
+Feito em C# com integra√ß√£o ao banco de dados SQL Server, com uma contru√ß√£o de uma dashboard com alterna√ß√£o dinamica de formularios e tratamento de erros, modelos de banco de dados desde o conceitual at√© o fisico, entre outras coisas.
 
 - C#
 - Windows Form
 - SQL Server
 
-##DemonstraÁ„o de algumas Telas
+## Demonstra√ß√£o de algumas Telas
 
-######Tela de Login
+###### Tela de Login
 ![](/Capturas/Login.png?raw=true "Login")
 
-######Visual da Dashboard
+###### Visual da Dashboard
 ![](/Capturas/Inicial.png?raw=true "Dashboard")
 
-######Tela de cadastro de Usuarios
+###### Tela de cadastro de Usuarios
 ![](/Capturas/Cadastro.png?raw=true "Cadastro")
 
-######Tela de pesquisa de Pacientes
+###### Tela de pesquisa de Pacientes
 ![](/Capturas/Pesquisa.png?raw=true "Lista")
 
-######Tela de Agendamento
+###### Tela de Agendamento
 ![](/Capturas/Agenda.png?raw=true "Lista")
 
-Projeto n„o est· finalizado, foi interrompido para criaÁ„o de um novo projeto da faculdade.
+Projeto n√£o est√° finalizado, foi interrompido para cria√ß√£o de um novo projeto da faculdade.
